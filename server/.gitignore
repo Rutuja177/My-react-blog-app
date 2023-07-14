@@ -1,0 +1,6 @@
+.env
+prod-env.yaml
+build
+node_modules
+load-data.js
+credential.json
