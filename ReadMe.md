@@ -7,13 +7,6 @@ You can visit here: https://myreactblogapp.uc.r.appspot.com/
 <img width="943" alt="image" src="img2.png">
 
 
-npm install
-cd .\server\
-npm start
-this will start on port 8080
-Go to http://localhost:8000/
-
-
 1. Install the necessary dependencies by running the following command in your project's root directory:
 ```
 npm install
