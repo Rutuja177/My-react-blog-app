@@ -3,8 +3,9 @@
 
 You can visit here: https://myreactblogapp.uc.r.appspot.com/
 
-<img width="943" alt="image" src="https://github.com/Rutuja177/My-react-blog-app/assets/47986024/83a5bc33-dfc5-4953-904b-b593e9176be6">
-<img width="943" alt="image" src="https://github.com/Rutuja177/My-react-blog-app/assets/47986024/387787fa-432b-4de7-b098-284756915c55">
+<img width="943" alt="image" src="img1.png">
+<img width="943" alt="image" src="img2.png">
+
 
 npm install
 cd .\server\
